@@ -1,8 +1,9 @@
 # svi-android-best-practices
 Best practices and libraries for Android
 
-Netrork libraries : http://square.github.io/retrofit/ is best to use for completed solution. Retrofit quide - http://guides.codepath.com/android/Consuming-APIs-with-Retrofit
-To make own Rest Client good to use - https://github.com/loopj/android-async-http.
+Netrork libraries : http://square.github.io/retrofit/ is best to use for completed solution. 
+Retrofit quide - http://guides.codepath.com/android/Consuming-APIs-with-Retrofit
+To make own Rest Client good to use - https://github.com/loopj/android-async-http
 
 Image Loaders : Google recomendation and best performance, medium quality images by default - https://github.com/bumptech/glide.
 https://github.com/square/picasso - has same interface as Glide so can be easy to switch between them. Focused on hight quality images by default.
@@ -24,5 +25,6 @@ Easy memory leacks detection library - https://github.com/square/leakcanary
 
 Powerful logging library - https://github.com/JakeWharton/timber
 
-Prefer to use new Toolbar control instead of old ActionBar - sample usage - https://github.com/Suleiman19/Android-Material-Design-for-pre-Lollipop
+Prefer to use new Toolbar control instead of old ActionBar. 
+Sample usage - https://github.com/Suleiman19/Android-Material-Design-for-pre-Lollipop
 
