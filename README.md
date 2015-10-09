@@ -37,3 +37,5 @@ Prefer to use new Toolbar control instead of old ActionBar.
 Sample usage - https://github.com/Suleiman19/Android-Material-Design-for-pre-Lollipop
 
 Code style guide - http://google.github.io/styleguide/javaguide.html
+
+Good library for instrumentation tests distribution - http://square.github.io/spoon/
